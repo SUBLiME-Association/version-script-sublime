@@ -1,0 +1,5 @@
+{
+	"script": "sublime_playerCreator",
+	"version" : "0.0.1",
+	"changelog": "Correction coord z au first spawn, possibiliter de créer un personnage chauve."
+}
